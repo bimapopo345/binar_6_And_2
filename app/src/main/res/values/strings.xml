@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OhMovie</string>
+    <string name="connectivity_error">Connectivity Error</string>
+    <string name="server_error">\"Server Error: \"</string>
+    <string name="unknown_error">\"Unknown Error: \"</string>
+    <string name="popular_movies">Popular Movies</string>
+</resources>
